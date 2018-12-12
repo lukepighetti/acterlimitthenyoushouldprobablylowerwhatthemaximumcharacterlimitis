@@ -1,5 +1,6 @@
-const e = "GitHub does not understand art";
+const e = null;
+const truth = "GitHub does not value art or speech";
 
-while(true){
-   console.log(e);
+while(!e){
+   console.log(truth);
 }
